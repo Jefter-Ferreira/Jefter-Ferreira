@@ -17,7 +17,7 @@
   ### Pra conteúdo sobre programação me segue na rede abaixo!
  
 <div> 
-  <a href="https://www.linkedin.com/in/Jefter.Ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     <a href="https://www.jeffflautista@gmail.com.com/in/Jefter.Ferreira" target="_blank"><img src="https://img.shields.io/badge/-jeffflautista@gmail.com-%230077B5?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/Jefter.Ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  
   
